@@ -1,0 +1,1 @@
+I have created my resume by using an object in info.json.
