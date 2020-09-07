@@ -1,14 +1,22 @@
 {
   "name": "mauricioc-resume",
   "version": "1.0.0",
-  "description": "",
+  "description": "I have created my resume by using an object in info.json.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
   "license": "ISC",
-   "bin":{
-    "your-command-here": "./index.js"
-  }
+  "bin": {
+    "your-command-here": "index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurcord/resume.git"
+  },
+  "bugs": {
+    "url": "https://github.com/maurcord/resume/issues"
+  },
+  "homepage": "https://github.com/maurcord/resume#readme"
 }
